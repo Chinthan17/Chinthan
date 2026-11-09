@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chinthan S</h1>
 
-<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="Chinthan header image">
-
 -------------------
 &emsp;
 <h3 align="left">Hi 👋, I'm Chinthan S, Computer Science Graduate from JSS Academy of Technical Education (JSSATE) Bengaluru.</h3>
